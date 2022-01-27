@@ -45,4 +45,4 @@
  - [x] 24/01/22 liad_tools
  - [x] 25/01/22 keyboard gibrish
  - [x] 26/01/22 downloader-tools
-
+ - [x] 27/01/22 crack-apps-login
