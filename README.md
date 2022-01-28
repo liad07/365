@@ -47,6 +47,7 @@
  - [x] 25/01/22 keyboard gibrish
  - [x] 26/01/22 downloader-tools
  - [x] 27/01/22 crack-apps-login
+ - [x] 28/01/22 translate
 # the best
 the best is the first project on 365 project || 2022/01/01 || 1/365
 about:
