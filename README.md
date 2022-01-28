@@ -52,7 +52,7 @@ the best is the first project on 365 project || 2022/01/01 || 1/365
 about:
 2 years ago i open a business with my brother and my uncel
 I wanted to start with this for fun
-![demo pic](https://github.com/liad07/365/blob/main/pics/%231.png?raw=true)
+![alt text](https://github.com/liad07/365/blob/main/pics/%231.png?raw=true)
 
 
 <a href="https://liad07.github.io/The-Best/home.html">open web</a> <a href="https://github.com/liad07/The-Best">open src code</a>
