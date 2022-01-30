@@ -21,7 +21,7 @@
 ## רשימת פרויקטים שבוצעו
 
  - [x] [01/01/22 the best](#the-best)
- - [x] 02/01/22 beitar jerusalem
+ - [x] [02/01/22 beitar jerusalem](#beitar-jerusalem)
  - [x] 03/01/22 homepage for tor
  - [x] 04/01/22 crack apps [add login//and serch option]
  - [x] 05/01/22 scorehub
@@ -55,6 +55,14 @@ the best is the first project on 365 project || 2022/01/01 || 1/365
 about:
 2 years ago i open a business with my brother and my uncel
 I wanted to start with this for fun
+![alt text](https://github.com/liad07/365/blob/main/pics/%231.png?raw=true)
+
+
+<a href="https://liad07.github.io/The-Best/home.html">open web</a> <a href="https://github.com/liad07/The-Best">open src code</a>
+# beitar-jerusalem
+beitar-jerusalem web is the || 2/365 || 2022/01/02 
+about:
+2 years ago i open a business with my brother and my uncel
 ![alt text](https://github.com/liad07/365/blob/main/pics/%231.png?raw=true)
 
 
