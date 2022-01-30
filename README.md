@@ -1,4 +1,5 @@
 
+
 # 365 project
  
 מטרות ומעקב אחר פרויקט 365
@@ -51,19 +52,24 @@
  - [x] 29/01/22 liad filters v1(2019 verison)
 
 # the best
-the best is the first project on 365 project || 2022/01/01 || 1/365
+### the best is the first project on 365 project || 2022/01/01 || 1/365
 about:
-2 years ago i open a business with my brother and my uncel
-I wanted to start with this for fun
-![alt text](https://github.com/liad07/365/blob/main/pics/%231.png?raw=true)
+לפני שנתיים פתחתי עסק עם אחי ועם דודים שלי 
+רציתי להתחיל מזה בשביל הנוסטלגיה![alt text](https://github.com/liad07/365/blob/main/pics/%231.png?raw=true)
 
 
 <a href="https://liad07.github.io/The-Best/home.html">open web</a> <a href="https://github.com/liad07/The-Best">open src code</a>
 # beitar-jerusalem
-beitar-jerusalem web is the || 2/365 || 2022/01/02 
+### beitar-jerusalem web is the || 2/365 || 2022/01/02 
 about:
-2 years ago i open a business with my brother and my uncel
-![alt text](https://github.com/liad07/365/blob/main/pics/%231.png?raw=true)
+בחרתי באתר על ביתר כי היא הקבוצה האהובה עליי![alt text](https://github.com/liad07/365/blob/main/pics/2.png?raw=true?raw=true)
 
 
-<a href="https://liad07.github.io/The-Best/home.html">open web</a> <a href="https://github.com/liad07/The-Best">open src code</a>
+<a href="https://liad07.github.io/beitar-jerusalem/home">open web</a> <a href="https://github.com/liad07/beitar-jerusalem">open src code</a>
+# home-page-for-tor
+### home-page-for-tor web is the || 3/365 || 2022/01/03 
+about:
+בחרתי בבניית אתר זה כי אני משתמש בדפדפן טור והציק לי לראות את זה שאין לדפדפן עמוד בית אז בניתי בעצמי![alt text](https://github.com/liad07/365/blob/main/pics/3.png?raw=true?raw=true)
+
+
+<a href="https://liad07.github.io/homepagefortor/Home">open web</a> <a href="https://github.com/liad07/homepagefortor">open src code</a>
