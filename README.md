@@ -51,6 +51,7 @@
  - [x] 28/01/22 translate
  - [x] 29/01/22 liad filters v1(2019 verison)
  - [x] 30/01/22 winner pro
+ - [x] 31/01/22 font-downloader-js
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
