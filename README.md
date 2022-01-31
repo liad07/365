@@ -23,11 +23,11 @@
 
  - [x] [01/01/22 the best](#the-best)
  - [x] [02/01/22 beitar jerusalem](#beitar-jerusalem)
- - [x] 03/01/22 homepage for tor
- - [x] 04/01/22 crack apps [add login//and serch option]
- - [x] 05/01/22 scorehub
- - [x] 06/01/22 recell
- - [x] 07/01/22 liad kadosh profilito
+ - [x] [03/01/22 homepage for tor](#home-page-for-tor)
+ - [x] [04/01/22 crack apps \[add login//and serch option\]](#crack-apps)
+ - [x] [05/01/22 scorehub](#scorehub)
+ - [x] [06/01/22 recell](#recell)
+ - [x] [07/01/22 liad kadosh profilito](#profilito)
  - [x] 08/01/22 netfilKS
  - [x] 09/01/22 blogzala
  - [x] 10/01/22 eranlevi
@@ -54,7 +54,7 @@
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
-about:
+הערות:
 לפני שנתיים פתחתי עסק עם אחי ועם דודים שלי 
 רציתי להתחיל מזה בשביל הנוסטלגיה![alt text](https://github.com/liad07/365/blob/main/pics/%231.png?raw=true)
 
@@ -62,15 +62,43 @@ about:
 <a href="https://liad07.github.io/The-Best/home.html">open web</a> <a href="https://github.com/liad07/The-Best">open src code</a>
 # beitar-jerusalem
 ### beitar-jerusalem web is the || 2/365 || 2022/01/02 
-about:
+הערות:
 בחרתי באתר על ביתר כי היא הקבוצה האהובה עליי![alt text](https://github.com/liad07/365/blob/main/pics/2.png?raw=true?raw=true)
 
 
 <a href="https://liad07.github.io/beitar-jerusalem/home">open web</a> <a href="https://github.com/liad07/beitar-jerusalem">open src code</a>
 # home-page-for-tor
 ### home-page-for-tor web is the || 3/365 || 2022/01/03 
-about:
+הערות:
 בחרתי בבניית אתר זה כי אני משתמש בדפדפן טור והציק לי לראות את זה שאין לדפדפן עמוד בית אז בניתי בעצמי![alt text](https://github.com/liad07/365/blob/main/pics/3.png?raw=true?raw=true)
 
 
 <a href="https://liad07.github.io/homepagefortor/Home">open web</a> <a href="https://github.com/liad07/homepagefortor">open src code</a>
+# crack-apps
+### crack apps (serch )web is the || 4/365 || 2022/01/04 
+הערות:
+הוספת פונקציית חיפוש כפתור באתר אשפר ביום שאמצא זמן פנוי![alt text](https://github.com/liad07/365/blob/main/pics/4.png?raw=true?raw=true)
+
+
+<a href="https://liad07.github.io/crack-apps/Home">open web</a> <a href="https://github.com/liad07/crack-apps">open src code</a>
+# scorehub
+### scorehub web is the || 5/365 || 2022/01/05 
+הערות:
+אתר חדשות ספורט![alt text](https://github.com/liad07/365/blob/main/pics/5.png?raw=true?raw=true)
+
+
+<a href="https://liad07.github.io/scorehub/home">open web</a> <a href="https://github.com/liad07/scorehub">open src code</a>
+# recell
+### recell web is the || 6/365 || 2022/01/06
+הערות:
+אתר דרופשיפינג![alt text](https://github.com/liad07/365/blob/main/pics/6.png?raw=true?raw=true)
+
+
+<a href="https://liad07.github.io/recell/home">open web</a> <a href="https://github.com/liad07/recell">open src code</a>
+# profilito
+### profilito web is the || 7/365 || 2022/01/07
+הערות:
+תיק עבודות פילטרים,בניית אתרים,גרפיקה![alt text](https://github.com/liad07/365/blob/main/pics/7.png?raw=true?raw=true)
+
+
+<a href="https://liad07.github.io/profilito/">open web</a> <a href="https://github.com/liad07/profilito">open src code</a>
