@@ -59,7 +59,7 @@
  - [x] 30/01/22 winner pro
  - [x] 31/01/22 font-downloader-js
  - [x] 01/02/22 crack apps addon
-
+-  [x] 02/02/22 whatsappsender
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
 הערות:
