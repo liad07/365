@@ -65,6 +65,12 @@
 -  [x] 02/02/22 whatsappsender
 -  [x] 03/02/22 yonit-race
 -  [x] 04/02/22 Google exetention
+-  [x] 05/02/22 hebtobet
+-  [x] 06/02/22 king of the hamuzim
+-  [x] 07/02/22 web flask
+-  [x] 08/02/22 365counter
+-  [x] 09/02/22 autoclicker
+
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
 הערות:
