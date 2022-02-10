@@ -70,6 +70,8 @@
 -  [x] 07/02/22 web flask
 -  [x] 08/02/22 365counter
 -  [x] 09/02/22 autoclicker
+-  [x] 10/02/22 Font-Stoler
+
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
