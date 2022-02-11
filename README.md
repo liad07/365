@@ -126,3 +126,10 @@
 
 
 <a href="https://liad07.github.io/profilito/">open web</a> <a href="https://github.com/liad07/profilito">open src code</a>
+# netfliKS
+### netfliKS web is the || 8/365 || 2022/01/08
+הערות:
+netfliKS אתר סרטים וטלויזיה לצפייה ישירה![alt text](https://github.com/liad07/365/blob/main/pics/8.jpg?raw=true?raw=true)
+
+
+<a href="https://liad07.github.io/netfliKS/">open web</a> <a href="https://github.com/liad07/netfliKS">open src code</a>
