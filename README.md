@@ -77,6 +77,7 @@
 -  [x] 12/02/22 codeforu
 -  [x] 13/02/22 crackapps-iphone
 -  [x] 14/02/22 font-downloader-py
+-  [x] 15/02/22 scripts
 
 
 # the best
