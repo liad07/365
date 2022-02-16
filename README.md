@@ -78,6 +78,7 @@
 -  [x] 13/02/22 crackapps-iphone
 -  [x] 14/02/22 font-downloader-py
 -  [x] 15/02/22 scripts
+-  [x] 16/02/22 barca
 
 
 # the best
