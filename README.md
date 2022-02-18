@@ -80,6 +80,7 @@
 -  [x] 15/02/22 scripts
 -  [x] 16/02/22 barca
 -  [x] 17/02/22 tom&jerry game
+-  [x] 18/02/22 Rock-Paper-Scissors game
 
 
 # the best
