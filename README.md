@@ -85,6 +85,7 @@
 -  [x] 20/02/22 mtlv
 -  [x] 21/02/22 nba
 -  [x] 22/02/22 simon game
+-  [x] 23/02/22 guses the num game
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
