@@ -87,6 +87,7 @@
 -  [x] 22/02/22 simon game
 -  [x] 23/02/22 guses the num game
 -  [x] 24/02/22 tic tac toe java game
+-  [x] 25/02/22 PersonalEmpowerment
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
