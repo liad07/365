@@ -26,6 +26,7 @@
  - [ ]  שפת תכנות
  - [ ]  אפליקציה לאנדרואיד
  - [ ]  משחק מחשב
+ - [x]  משחק מחשב כונסול
  - [x]  משחק דפדפן
 
  - [x]  תוסף בגוגל
@@ -88,6 +89,7 @@
 -  [x] 23/02/22 guses the num game
 -  [x] 24/02/22 tic tac toe java game
 -  [x] 25/02/22 PersonalEmpowerment
+-  [x] 26/02/22 gimtria
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
