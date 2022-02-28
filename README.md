@@ -93,7 +93,7 @@
 -  [x] 25/02/22 PersonalEmpowerment
 -  [x] 26/02/22 gimtria
 -  [x] 27/02/22 crack apps v3
-
+-  [x] 28/02/22 tic tac toe v2
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
