@@ -96,6 +96,7 @@
 -  [x] 28/02/22 tic tac toe v2
 -  [x] 01/03/22 seven-boom
 -  [x] 02/03/2022 365 auto
+-  [x] 03/03/22 qr maker
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
