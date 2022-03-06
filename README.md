@@ -99,6 +99,7 @@
 -  [x] 03/03/22 qr maker
 -  [x] 04/03/22 QR maker web
 -  [x] 05/03/22 clock
+-  [x] 06/03/22 first php
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
