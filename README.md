@@ -105,6 +105,7 @@
 -  [x] 08/03/22 check web
 -  [x] 09/03/22 calendar
 -  [x] 10/03/22 genpass
+-  [x] 11/03/22 targetingSearch
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
