@@ -43,7 +43,7 @@
  - [x] [05/01/22 scorehub](#scorehub)
  - [x] [06/01/22 recell](#recell)
  - [x] [07/01/22 liad kadosh profilito](#profilito)
- - [x] 08/01/22 netfilKS
+ - [x] [08/01/22 netfilKS](#netfliKS)
  - [x] 09/01/22 blogzala
  - [x] 10/01/22 eranlevi
  - [x] 11/01/22cocacola web
