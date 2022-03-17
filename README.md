@@ -112,6 +112,7 @@
 -  [x] 14/03/22 gallery-side
 -  [x] 15/03/22 youtubedownloader
 -  [x] 16/03/22 qof
+-  [x] 17/03/22 pyQRL
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
