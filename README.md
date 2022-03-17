@@ -25,6 +25,7 @@
 - [x]  אפליקציה 
 - [x] סיום בניית crack apps v2
 - [x] css libary
+- [x] python libary
 
  - [ ]  שפת תכנות
  - [ ]  אפליקציה לאנדרואיד
