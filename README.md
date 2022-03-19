@@ -114,6 +114,7 @@
 -  [x] 16/03/22 qof
 -  [x] 17/03/22 pyQRL
 -  [x] 18/03/22 pywiki
+-  [x] 19/03/22 pytranslate
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
