@@ -115,6 +115,7 @@
 -  [x] 17/03/22 pyQRL
 -  [x] 18/03/22 pywiki
 -  [x] 19/03/22 pytranslate
+-  [x] 20/03/22 fifa team genrator
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
