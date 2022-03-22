@@ -117,6 +117,7 @@
 -  [x] 19/03/22 pytranslate
 -  [x] 20/03/22 fifa team genrator
 -  [x] 21/03/22 crack apps birthday
+-  [x] 22/03/22 key recognize
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
