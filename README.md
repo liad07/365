@@ -124,6 +124,7 @@
 -  [x] 26/03/22 myfirstweb
 -  [x] 27/03/22 cookies
 -  [x] 28/03/22 cool cars
+-  [x] 29/03/22 score view
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
