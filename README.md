@@ -127,6 +127,7 @@
 -  [x] 29/03/22 score view
 -  [x] 30/03/22 TicketSale
 -  [x] 31/03/22 dark\white mode
+-  [x] 01/04/22 resolution checker
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
