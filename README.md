@@ -134,6 +134,7 @@
 -  [x] 04/04/22 copy paste js
 -  [x] 05/04/22 consoleimage
 -  [x] 06/04/22 showifi
+-  [x] 07/04/22 first sql
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
