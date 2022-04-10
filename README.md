@@ -29,7 +29,7 @@
 - [x] python libary
 
  - [ ]  שפת תכנות
- - [ ]  אפליקציה לאנדרואיד
+ - [x]  אפליקציה לאנדרואיד
  - [ ]  משחק מחשב
  - [x]  משחק מחשב כונסול
  - [x]  משחק דפדפן
@@ -137,6 +137,7 @@
 -  [x] 07/04/22 first sql
 -  [x] 08/04/22 speedtest
 -  [x] 09/04/22 treelink
+-  [x] 10/04/22 cocacola gen apk
 
 # the best
 ### the best is the first project on 365 project || 2022/01/01 || 1/365
