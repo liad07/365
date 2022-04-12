@@ -140,60 +140,124 @@
 -  [x] 10/04/22 cocacola gen apk
 -  [x] 11/04/22 cocacola
 
-# the best
-### the best is the first project on 365 project || 2022/01/01 || 1/365
-הערות:
-לפני שנתיים פתחתי עסק עם אחי ועם דודים שלי 
-רציתי להתחיל מזה בשביל הנוסטלגיה![alt text](https://github.com/liad07/365/blob/main/pics/%231.png?raw=true)
+# the-best 
+### Two years ago I started a business with my brother and my uncles I wanted to start from this for nostalgia
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/the-best/'>open web</a> <a href='https://github.com/liad07/the-best'>open src code</a>
+# beitar-jerusalem 
+### I chose the site on Beitar because it is my favorite group
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/beitar-jerusalem/'>open web</a> <a href='https://github.com/liad07/beitar-jerusalem'>open src code</a>
+# homepagefortor 
+### I chose to build this site because I use a column browser and it bothered me to see that the browser does not have a homepage so I built it myself
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/homepagefortor/'>open web</a> <a href='https://github.com/liad07/homepagefortor'>open src code</a>
+# crack-apps 
+### add function serch
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/crack-apps/'>open web</a> <a href='https://github.com/liad07/crack-apps'>open src code</a>
+# scorehub 
+### sport news web
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/scorehub/'>open web</a> <a href='https://github.com/liad07/scorehub'>open src code</a>
+# recell 
+### dropshiping webg
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/recell/'>open web</a> <a href='https://github.com/liad07/recell'>open src code</a>
+# profilito 
+### profilito filters,web devlop,graphics
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/profilito/'>open web</a> <a href='https://github.com/liad07/profilito'>open src code</a>
+# netfliKS 
+### netfliKS Movie and TV site for direct viewing
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/netfliKS/'>open web</a> <a href='https://github.com/liad07/netfliKS'>open src code</a>
+# bloglaza 
+### blog web
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/bloglaza/'>open web</a> <a href='https://github.com/liad07/bloglaza'>open src code</a>
+# eranlevi 
+### web about the goat
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/eranlevi/'>open web</a> <a href='https://github.com/liad07/eranlevi'>open src code</a>
+# colagen 
+### generate cocacola pkak
+ #### in language javascript
+ ##### type: web  
+<a href='https://liad07.github.io/colagen/'>open web</a> <a href='https://github.com/liad07/colagen'>open src code</a>
 
-
-<a href="https://liad07.github.io/The-Best/home.html">open web</a> <a href="https://github.com/liad07/The-Best">open src code</a>
-# beitar-jerusalem
-### beitar-jerusalem web is the || 2/365 || 2022/01/02 
-הערות:
-בחרתי באתר על ביתר כי היא הקבוצה האהובה עליי![alt text](https://github.com/liad07/365/blob/main/pics/2.png?raw=true?raw=true)
-
-
-<a href="https://liad07.github.io/beitar-jerusalem/home">open web</a> <a href="https://github.com/liad07/beitar-jerusalem">open src code</a>
-# home-page-for-tor
-### home-page-for-tor web is the || 3/365 || 2022/01/03 
-הערות:
-בחרתי בבניית אתר זה כי אני משתמש בדפדפן טור והציק לי לראות את זה שאין לדפדפן עמוד בית אז בניתי בעצמי![alt text](https://github.com/liad07/365/blob/main/pics/3.png?raw=true?raw=true)
-
-
-<a href="https://liad07.github.io/homepagefortor/Home">open web</a> <a href="https://github.com/liad07/homepagefortor">open src code</a>
-# crack-apps
-### crack apps (serch )web is the || 4/365 || 2022/01/04 
-הערות:
-הוספת פונקציית חיפוש כפתור באתר אשפר ביום שאמצא זמן פנוי![alt text](https://github.com/liad07/365/blob/main/pics/4.png?raw=true?raw=true)
-
-
-<a href="https://liad07.github.io/crack-apps/Home">open web</a> <a href="https://github.com/liad07/crack-apps">open src code</a>
-# scorehub
-### scorehub web is the || 5/365 || 2022/01/05 
-הערות:
-אתר חדשות ספורט![alt text](https://github.com/liad07/365/blob/main/pics/5.png?raw=true?raw=true)
-
-
-<a href="https://liad07.github.io/scorehub/home">open web</a> <a href="https://github.com/liad07/scorehub">open src code</a>
-# recell
-### recell web is the || 6/365 || 2022/01/06
-הערות:
-אתר דרופשיפינג![alt text](https://github.com/liad07/365/blob/main/pics/6.png?raw=true?raw=true)
-
-
-<a href="https://liad07.github.io/recell/home">open web</a> <a href="https://github.com/liad07/recell">open src code</a>
-# profilito
-### profilito web is the || 7/365 || 2022/01/07
-הערות:
-תיק עבודות פילטרים,בניית אתרים,גרפיקה![alt text](https://github.com/liad07/365/blob/main/pics/7.png?raw=true?raw=true)
-
-
-<a href="https://liad07.github.io/profilito/">open web</a> <a href="https://github.com/liad07/profilito">open src code</a>
-# netfliKS
-### netfliKS web is the || 8/365 || 2022/01/08
-הערות:
-netfliKS אתר סרטים וטלויזיה לצפייה ישירה![alt text](https://github.com/liad07/365/blob/main/pics/8.jpg?raw=true?raw=true)
-
-
-<a href="https://liad07.github.io/netfliKS/">open web</a> <a href="https://github.com/liad07/netfliKS">open src code</a>
+# score-hub 
+###(פorn hub satira) 
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/score-hub/'>open web</a> <a href='https://github.com/liad07/score-hub'>open src code</a>
+# iptvbot-v2 
+### iptv bot 
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/iptvbot-v2/'>open web</a> <a href='https://github.com/liad07/iptvbot-v2'>open src code</a>
+# ballgame 
+### web for youtube channel of my littel brother
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/ballgame/'>open web</a> <a href='https://github.com/liad07/ballgame'>open src code</a>
+# font-downloader 
+### A site that downloads fonts for you
+ #### in language javascript
+ ##### type: web  
+<a href='https://liad07.github.io/font-downloader/'>open web</a> <a href='https://github.com/liad07/font-downloader'>open src code</a>
+# tic-tac-toe 
+### game tic tac toe
+ #### in language javascript
+ ##### type: web  
+<a href='https://liad07.github.io/tic-tac-toe/'>open web</a> <a href='https://github.com/liad07/tic-tac-toe'>open src code</a>
+# dunk-genraor 
+### on refresh get new meme
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/dunk-genraor/'>open web</a> <a href='https://github.com/liad07/dunk-genraor'>open src code</a>
+# cocacolawebapp 
+### cocacola ghenerate pkaks on windows app
+ #### in language c#
+ ##### type: app  
+<a href='https://liad07.github.io/cocacolawebapp/'>open web</a> <a href='https://github.com/liad07/cocacolawebapp'>open src code</a>
+# caculator 
+### caculator web
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/caculator/'>open web</a> <a href='https://github.com/liad07/caculator'>open src code</a>
+# crack-apps-windows 
+### complet windows page on crack apps
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/crack-apps-windows/'>open web</a> <a href='https://github.com/liad07/crack-apps-windows'>open src code</a>
+# crackapps 
+### crackapps v2
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/crackapps/'>open web</a> <a href='https://github.com/liad07/crackapps'>open src code</a>
+# iptv 
+### iptv bot on any language i know
+ #### in language python,java,html,c#,c++,r,php
+ ##### type: console,web  
+<a href='https://liad07.github.io/iptv/'>open web</a> <a href='https://github.com/liad07/iptv'>open src code</a>
+# liad-tools 
+### mange some cool tools on python 
+ #### in language pytrhon
+ ##### type: console,app  
+<a href='https://liad07.github.io/liad-tools/'>open web</a> <a href='https://github.com/liad07/liad-tools'>open src code</a>
+# keyboard-gibberish 
+### convert heb to eng or eng to heb Instead of changing the language on the keyboard
+ #### in language java
+ ##### type: console  
+<a href='https://liad07.github.io/keyboard-gibberish/'>open web</a> <a href='https://github.com/liad07/keyboard-gibberish'>open src code</a>
