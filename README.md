@@ -198,7 +198,7 @@
 <a href='https://liad07.github.io/colagen/'>open web</a> <a href='https://github.com/liad07/colagen'>open src code</a>
 
 # score-hub 
-###(פorn hub satira) 
+### (פ orn hub satira) 
  #### in language html
  ##### type: web  
 <a href='https://liad07.github.io/score-hub/'>open web</a> <a href='https://github.com/liad07/score-hub'>open src code</a>
