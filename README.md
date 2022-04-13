@@ -145,8 +145,8 @@
 
 # the-best 
 ### Two years ago I started a business with my brother and my uncles I wanted to start from this for nostalgia
- #### in language html
- ##### type: web  
+#### in language html
+##### type: web  
 <a href='https://liad07.github.io/the-best/'>open web</a> <a href='https://github.com/liad07/the-best'>open src code</a>
 # beitar-jerusalem 
 ### I chose the site on Beitar because it is my favorite group
