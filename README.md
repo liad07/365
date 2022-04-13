@@ -142,6 +142,7 @@
 -  [x] 12/04/22 qrmaker app
 
 
+
 # the-best 
 ### Two years ago I started a business with my brother and my uncles I wanted to start from this for nostalgia
  #### in language html
@@ -494,7 +495,7 @@
  ##### type: console  
 <a href='https://liad07.github.io/iptocountry/'>open web</a> <a href='https://github.com/liad07/iptocountry'>open src code</a>
 # weather 
-### ge city and country retun wether
+### get city and country retun wether
  #### in language python
  ##### type: console  
 <a href='https://liad07.github.io/weather/'>open web</a> <a href='https://github.com/liad07/weather'>open src code</a>
@@ -503,3 +504,148 @@
  #### in language javascript
  ##### type: web
 <a href='https://liad07.github.io//'>open web</a> <a href='https://github.com/liad07/'>open src code</a>
+# youtubedownloader 
+### download a youtube video in python
+ #### in language python
+ ##### type: console  
+<a href='https://liad07.github.io/youtubedownloader/'>open web</a> <a href='https://github.com/liad07/youtubedownloader'>open src code</a>
+# qof 
+### queen of fruits web
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/qof/'>open web</a> <a href='https://github.com/liad07/qof'>open src code</a>
+# pyQRL 
+### python libary that creat a qr code for you with Special options
+ #### in language python
+ ##### type: libary  
+<a href='https://liad07.github.io/pyQRL/'>open web</a> <a href='https://github.com/liad07/pyQRL'>open src code</a>
+# pywiki 
+### wikipedia in console python
+ #### in language python
+ ##### type: console  
+<a href='https://liad07.github.io/pywiki/'>open web</a> <a href='https://github.com/liad07/pywiki'>open src code</a>
+# pytranslate 
+### translate in python console
+ #### in language python
+ ##### type: console  
+<a href='https://liad07.github.io/pytranslate/'>open web</a> <a href='https://github.com/liad07/pytranslate'>open src code</a>
+# fifa-team-genrator 
+### generat fifa teams
+ #### in language python
+ ##### type: console  
+<a href='https://liad07.github.io/fifa-team-genrator/'>open web</a> <a href='https://github.com/liad07/fifa-team-genrator'>open src code</a>
+# crack-apps-birthday 
+### add option birthday to crack apps
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/crack-apps-birthday/'>open web</a> <a href='https://github.com/liad07/crack-apps-birthday'>open src code</a>
+# key-recognize 
+### recognize what key preesed
+ #### in language javascript
+ ##### type: web  
+<a href='https://liad07.github.io/key-recognize/'>open web</a> <a href='https://github.com/liad07/key-recognize'>open src code</a>
+# clock-v2 
+### web that show you the clock with option to change the backgroundcolr
+ #### in language javascript
+ ##### type: web  
+<a href='https://liad07.github.io/clock-v2/'>open web</a> <a href='https://github.com/liad07/clock-v2'>open src code</a>
+# crack-apps-school-v2 
+### crack apps project school v2
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/crack-apps-school-v2/'>open web</a> <a href='https://github.com/liad07/crack-apps-school-v2'>open src code</a>
+# clock-v3 
+### web that show you the clock with option to change the background color and textcolor 
+ #### in language javascript
+ ##### type: web  
+<a href='https://liad07.github.io/clock-v3/'>open web</a> <a href='https://github.com/liad07/clock-v3'>open src code</a>
+# myfirstweb 
+### myfirstweb in 2019
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/myfirstweb/'>open web</a> <a href='https://github.com/liad07/myfirstweb'>open src code</a>
+# cookies 
+### cookies web
+ #### in language javascript
+ ##### type: web  
+<a href='https://liad07.github.io/cookies/'>open web</a> <a href='https://github.com/liad07/cookies'>open src code</a>
+# cool-cars 
+### web about cool cars
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/cool-cars/'>open web</a> <a href='https://github.com/liad07/cool-cars'>open src code</a>
+# score-view 
+### web that show you the score in king of the hamuzim
+ #### in language javascript
+ ##### type: web  
+<a href='https://liad07.github.io/score-view/'>open web</a> <a href='https://github.com/liad07/score-view'>open src code</a>
+# TicketSale 
+### web about TicketSale
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/TicketSale/'>open web</a> <a href='https://github.com/liad07/TicketSale'>open src code</a>
+# dark-white-mode 
+### recognize your system preference for dark or white background
+ #### in language javascript
+ ##### type: web  
+<a href='https://liad07.github.io/dark-white-mode/'>open web</a> <a href='https://github.com/liad07/dark-white-mode'>open src code</a>
+# resolution-checker 
+### check screen resolution
+ #### in language javascript
+ ##### type: web  
+<a href='https://liad07.github.io/resolution-checker/'>open web</a> <a href='https://github.com/liad07/resolution-checker'>open src code</a>
+# king-of-the-hamuzim-app 
+### king-of-the-hamuzim-app
+ #### in language c#
+ ##### type: app  
+<a href='https://liad07.github.io/king-of-the-hamuzim-app/'>open web</a> <a href='https://github.com/liad07/king-of-the-hamuzim-app'>open src code</a>
+# fliptext 
+### get text and retun him reverse
+ #### in language javascript
+ ##### type: web  
+<a href='https://liad07.github.io/fliptext/'>open web</a> <a href='https://github.com/liad07/fliptext'>open src code</a>
+# copy-paste-js 
+### copy paste js
+ #### in language javascript
+ ##### type: web  
+<a href='https://liad07.github.io/copy-paste-js/'>open web</a> <a href='https://github.com/liad07/copy-paste-js'>open src code</a>
+# consoleimage 
+### console web javascript image console
+ #### in language javascript
+ ##### type: web  
+<a href='https://liad07.github.io/consoleimage/'>open web</a> <a href='https://github.com/liad07/consoleimage'>open src code</a>
+# showifi 
+### show wify history name and password
+ #### in language python
+ ##### type: console  
+<a href='https://liad07.github.io/showifi/'>open web</a> <a href='https://github.com/liad07/showifi'>open src code</a>
+# first-sql 
+### web server with sql database
+ #### in language asp.net
+ ##### type: web server  
+<a href='https://liad07.github.io/first-sql/'>open web</a> <a href='https://github.com/liad07/first-sql'>open src code</a>
+# speedtest 
+### check internet speed upload and download
+ #### in language python
+ ##### type: console  
+<a href='https://liad07.github.io/speedtest/'>open web</a> <a href='https://github.com/liad07/speedtest'>open src code</a>
+# treelink 
+### treelink web
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/treelink/'>open web</a> <a href='https://github.com/liad07/treelink'>open src code</a>
+# cocacola-gen-apk 
+### cocacola generat app android
+ #### in language java
+ ##### type: android app  
+<a href='https://liad07.github.io/cocacola-gen-apk/'>open web</a> <a href='https://github.com/liad07/cocacola-gen-apk'>open src code</a>
+# cocacola 
+### A landing page that centralizes all traffic jams
+ #### in language html
+ ##### type: web  
+<a href='https://liad07.github.io/cocacola/'>open web</a> <a href='https://github.com/liad07/cocacola'>open src code</a>
+# qrmaker-app 
+### qr maker app 
+ #### in language java
+ ##### type: android app  
+<a href='https://liad07.github.io/qrmaker-app/'>open web</a> <a href='https://github.com/liad07/qrmaker-app'>open src code</a>
