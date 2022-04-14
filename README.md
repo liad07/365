@@ -141,6 +141,7 @@
 -  [x] 11/04/22 cocacola
 -  [x] 12/04/22 qrmaker app
 -  [x] 13/04/22 getip
+-  [x] 14/04/22 getinformation
 
 
 
