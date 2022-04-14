@@ -140,6 +140,7 @@
 -  [x] 10/04/22 cocacola gen apk
 -  [x] 11/04/22 cocacola
 -  [x] 12/04/22 qrmaker app
+-  [x] 13/04/22 getip
 
 
 
@@ -649,3 +650,8 @@
 #### in language java
 ##### type: android app  
 <a href='https://liad07.github.io/qrmaker-app/'>open web</a> <a href='https://github.com/liad07/qrmaker-app'>open src code</a>
+# getip
+### get ip on run
+#### in language python
+##### type: console</a>
+<a href='https://liad07.github.io/getip'>web</a> <a href='https://github.com/liad07/getip'>open src code</a>
