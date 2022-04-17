@@ -143,6 +143,7 @@
 -  [x] 13/04/22 getip
 -  [x] 14/04/22 getinformation
 -  [x] 15/04/22 the marker addon
+-  [x] 16/04/22 digital clock android
 
 
 
