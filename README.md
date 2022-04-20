@@ -147,6 +147,7 @@
 -  [x] 17/04/22 guess number app
 -  [x] 18/04/22 mtlv-v2
 -  [x] 19/04/22 qrmaker app
+-  [x] 20/04/22 alljobs
 
 
 
