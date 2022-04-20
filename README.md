@@ -139,13 +139,14 @@
 -  [x] 09/04/22 treelink
 -  [x] 10/04/22 cocacola gen apk
 -  [x] 11/04/22 cocacola
--  [x] 12/04/22 qrmaker app
+-  [x] 12/04/22 qrmaker android
 -  [x] 13/04/22 getip
 -  [x] 14/04/22 getinformation
 -  [x] 15/04/22 the marker addon
 -  [x] 16/04/22 digital clock android
 -  [x] 17/04/22 guess number app
 -  [x] 18/04/22 mtlv-v2
+-  [x] 19/04/22 qrmaker app
 
 
 
