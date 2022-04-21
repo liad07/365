@@ -148,6 +148,7 @@
 -  [x] 18/04/22 mtlv-v2
 -  [x] 19/04/22 qrmaker app
 -  [x] 20/04/22 alljobs
+-  [x] 21/04/22 rock paper scissors app
 
 
 
