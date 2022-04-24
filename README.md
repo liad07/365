@@ -150,6 +150,7 @@
 -  [x] 20/04/22 alljobs
 -  [x] 21/04/22 rock paper scissors app
 -  [x] 22/04/22 ticketsale-v2
+-  [x] 24/04/22 tic tac toe app
 
 
 
