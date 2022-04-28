@@ -153,6 +153,7 @@
 -  [x] 23/04/22 tic tac toe app
 -  [x] 24/04/22 crack apps v(school3)
 -  [x] 25/04/22 barca v2
+-  [x] 26/04/22 nba v2
 
 
 
