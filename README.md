@@ -163,8 +163,9 @@
 -  [x] 03/05/22 file remover
 -  [x] 04/05/22 color check
 -  [x] 05/05/22 python web
--  [x] 06/05/22 
+-  [x] 06/05/22 center-me
 -  [x] 07/05/22 
+-  [x] 08/05/22 
 
 
 
