@@ -168,7 +168,7 @@
 -  [x] 06/05/22 center-me
 -  [x] 07/05/22 scoreboard
 -  [x] 08/05/22 js deactor
--  [x] 09/05/22 
+-  [x] 09/05/22 AdBlocker detector
 -  [x] 10/05/22 
 -  [x] 11/05/22 
 
