@@ -169,8 +169,9 @@
 -  [x] 07/05/22 scoreboard
 -  [x] 08/05/22 js deactor
 -  [x] 09/05/22 AdBlocker detector
--  [x] 10/05/22 
+-  [x] 10/05/22 get ip
 -  [x] 11/05/22 
+-  [x] 12/05/22 
 
 
 
