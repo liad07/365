@@ -22,21 +22,19 @@
 
 ##  מטרות לפרויקט
 
- - [x] אפליקצית כונסול 
-- [x]  אפליקציה 
-- [x] סיום בניית crack apps v2
+ - [x] console app 
+- [x]  desktop app 
+- [x] final build crack apps v2
 - [x] css libary
 - [x] html tag
 - [x] api
 - [x] python libary
-
- - [ ]  שפת תכנות
- - [x]  אפליקציה לאנדרואיד
- - [ ]  משחק מחשב
- - [x]  משחק מחשב כונסול
- - [x]  משחק דפדפן
-
- - [x]  תוסף בגוגל
+ - [ ] program language
+ - [x]  android app
+ - [ ]  desktop game
+ - [x]  console game
+ - [x]  game browser
+ - [x]  google addon
 
 ## רשימת פרויקטים שבוצעו
 
