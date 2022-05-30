@@ -180,8 +180,8 @@
 -  [x] 20/05/22 check browser
 -  [x] 21/05/22 greenpass
 -  [x] 22/05/22 screenshot app
--  [x] 23/05/22 
--  [x] 24/05/22 
+-  [x] 23/05/22 webuilder
+-  [x] 24/05/22 nike
 -  [x] 25/05/22 
 -  [x] 26/05/22 
 -  [x] 27/05/22 
