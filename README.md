@@ -196,8 +196,8 @@
 -  [x] 05/06/22 fclock
 -  [x] 06/06/22 yellowcar
 -  [x] 07/06/22 aaa-addon
--  [x] 08/06/22 
--  [x] 09/06/22 
+-  [x] 08/06/22 designmode-addon
+-  [x] 09/06/22 sdarot-addon
 -  [x] 10/06/22 
 -  [x] 11/06/22 
 -  [x] 12/06/22 
