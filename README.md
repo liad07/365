@@ -199,7 +199,7 @@
 -  [x] 08/06/22 designmode-addon
 -  [x] 09/06/22 sdarot-addon
 -  [x] 10/06/22 sratim-addon
--  [x] 11/06/22 
+-  [x] 11/06/22 fontimonim-addon
 -  [x] 12/06/22 
 -  [x] 13/06/22 
 -  [x] 14/06/22 
