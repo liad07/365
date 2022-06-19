@@ -202,10 +202,12 @@
 -  [x] 11/06/22 fontimonim-addon
 -  [x] 12/06/22 check-ip
 -  [x] 13/06/22 disable css
--  [x] 14/06/22 
+-  [x] 14/06/22 mail-sender
 -  [x] 15/06/22 
 -  [x] 16/06/22 
 -  [x] 17/06/22 
+-  [x] 18/06/22 
+-  [x] 19/06/22 
 
 # the-best 
 ### Two years ago I started a business with my brother and my uncles I wanted to start from this for nostalgia
