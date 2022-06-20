@@ -206,7 +206,7 @@
 -  [x] 15/06/22 bsd
 -  [x] 16/06/22 bsd-addon
 -  [x] 17/06/22 darkmode-addon
--  [x] 18/06/22 
+-  [x] 18/06/22 github-downloader-addon
 -  [x] 19/06/22 
 -  [x] 20/06/22 
 
