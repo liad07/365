@@ -209,7 +209,7 @@
 -  [x] 18/06/22 github-downloader-addon
 -  [x] 19/06/22 carfind-bot
 -  [x] 20/06/22 checkip-bot
--  [x] 21/06/22 
+-  [x] 21/06/22 urlshortner-bot
 -  [x] 22/06/22
 -  [x] 23/06/22
 -  [x] 24/06/22
