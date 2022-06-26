@@ -19,7 +19,6 @@
 - [x] aspx
 - [x] php
 - [x] sql
-- [x] node 
 
 ##  מטרות לפרויקט
 
@@ -36,7 +35,6 @@
  - [x]  console game
  - [x]  game browser
  - [x]  google addon
- - [x]  whatsapp bot
 
 ## רשימת פרויקטים שבוצעו
 
