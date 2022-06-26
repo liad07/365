@@ -10,11 +10,11 @@
 
   
 ## שפות שלמדתי במהלך הפרויקט
-- [x]   js
+- [x] js
 - [x] pyhton
-- [x]  c#
-- [x]   c++
-- [x]  R
+- [x] c#
+- [x] c++
+- [x] R
 - [ ] c
 - [x] aspx
 - [x] php
@@ -29,12 +29,12 @@
 - [x] html tag
 - [x] api
 - [x] python libary
- - [ ] program language
- - [x]  android app
- - [ ]  desktop game
- - [x]  console game
- - [x]  game browser
- - [x]  google addon
+- [ ] program language
+- [x]  android app
+- [ ]  desktop game
+- [x]  console game
+- [x]  game browser
+- [x]  google addon
 
 ## רשימת פרויקטים שבוצעו
 
@@ -212,7 +212,7 @@
 -  [x] 21/06/22 urlshortner-bot
 -  [x] 22/06/22 webinformation
 -  [x] 23/06/22 colorgenerator
--  [x] 24/06/22
+-  [x] 24/06/22 whatsapp-bot
 -  [x] 25/06/22
 -  [x] 26/06/22
 
