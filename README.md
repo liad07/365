@@ -35,6 +35,7 @@
  - [x]  console game
  - [x]  game browser
  - [x]  google addon
+ - [x]  whatsapp bot
 
 ## רשימת פרויקטים שבוצעו
 
