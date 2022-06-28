@@ -213,9 +213,10 @@
 -  [x] 22/06/22 webinformation
 -  [x] 23/06/22 colorgenerator
 -  [x] 24/06/22 whatsapp-bot
--  [x] 25/06/22
+-  [x] 25/06/22 avatar-maker
 -  [x] 26/06/22
 -  [x] 27/06/22
+-  [x] 28/06/22
 
 # the-best 
 ### Two years ago I started a business with my brother and my uncles I wanted to start from this for nostalgia
