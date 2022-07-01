@@ -218,7 +218,7 @@
 -  [x] 27/06/22 facebookIL-reader
 -  [x] 28/06/22 facebookIL-bot
 -  [x] 29/06/22 CustomerService_bot
--  [x] 30/06/22
+-  [x] 30/06/22 elector-reader
 -  [x] 01/07/22
 
 # the-best 
