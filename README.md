@@ -221,6 +221,7 @@
 -  [x] 30/06/22 elector-reader
 -  [x] 01/07/22 elector-bot
 -  [x] 02/07/22 elector-gui
+-  [x] 03/07/22 anonymous-call
 
 # the-best 
 ### Two years ago I started a business with my brother and my uncles I wanted to start from this for nostalgia
