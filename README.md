@@ -232,7 +232,10 @@
 -  [x] 11/07/22 word-counter
 -  [x] 12/07/22 char-counter
 -  [x] 13/07/22 site-blocker
--  [x] 14/07/22 
+-  [x] 14/07/22 what-in-clipboard
+-  [x] 15/07/22 
+-  [x] 16/07/22 
+-  [x] 17/07/22 
 
 # the-best 
 ### Two years ago I started a business with my brother and my uncles I wanted to start from this for nostalgia
