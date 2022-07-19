@@ -237,6 +237,7 @@
 -  [x] 16/07/22 harta-hash-api
 -  [x] 17/07/22 harta-hash-decode
 -  [x] 18/07/22 harta-hash
+-  [x] 19/07/22 
 
 # the-best 
 ### Two years ago I started a business with my brother and my uncles I wanted to start from this for nostalgia
