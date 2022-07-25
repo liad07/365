@@ -241,6 +241,8 @@
 -  [x] 20/07/22 mikud-reader
 -  [x] 21/07/22 mikud-api
 -  [x] 22/07/22 mikud
+-  [x] 23/07/22 mikud-finder-api
+-  [x] 24/07/22 mikud-finder
 
 # the-best 
 ### Two years ago I started a business with my brother and my uncles I wanted to start from this for nostalgia
