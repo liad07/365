@@ -245,8 +245,8 @@
 -  [x] 24/07/22 mikud-finder
 -  [x] 25/07/22 birthday-wisher
 -  [x] 26/07/22 iptv-adblocker
--  [x] 27/07/22 
--  [x] 28/07/22 
+-  [x] 27/07/22 crack-apps-v4-school-masterpage
+-  [x] 28/07/22 JS-LK
 -  [x] 29/07/22 
 -  [x] 30/07/22 
 -  [x] 31/07/22 
