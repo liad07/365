@@ -31,7 +31,7 @@
 - [x] python libary
 - [ ] program language
 - [x]  android app
-- [ ]  desktop game
+- [x]  desktop game
 - [x]  console game
 - [x]  game browser
 - [x]  google addon
@@ -248,6 +248,9 @@
 -  [x] 27/07/22 
 -  [x] 28/07/22 
 -  [x] 29/07/22 
+-  [x] 30/07/22 
+-  [x] 31/07/22 
+-  [x] 01/08/22 
 
 # the-best 
 ### Two years ago I started a business with my brother and my uncles I wanted to start from this for nostalgia
