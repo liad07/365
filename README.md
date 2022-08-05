@@ -250,10 +250,11 @@
 -  [x] 29/07/22 textovoice
 -  [x] 30/07/22 nba-masterpage
 -  [x] 31/07/22 mtlv-masterpage
--  [x] 01/08/22 
+-  [x] 01/08/22 timer
 -  [x] 02/08/22 
 -  [x] 03/08/22 
 -  [x] 04/08/22 
+-  [x] 05/08/22 
 
 # the-best 
 ### Two years ago I started a business with my brother and my uncles I wanted to start from this for nostalgia
