@@ -251,7 +251,7 @@
 -  [x] 30/07/22 nba-masterpage
 -  [x] 31/07/22 mtlv-masterpage
 -  [x] 01/08/22 timer
--  [x] 02/08/22 
+-  [x] 02/08/22 wether-api
 -  [x] 03/08/22 
 -  [x] 04/08/22 
 -  [x] 05/08/22 
