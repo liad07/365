@@ -255,6 +255,8 @@
 -  [x] 03/08/22 
 -  [x] 04/08/22 
 -  [x] 05/08/22 
+-  [x] 06/08/22 
+-  [x] 07/08/22 
 
 # the-best 
 ### Two years ago I started a business with my brother and my uncles I wanted to start from this for nostalgia
