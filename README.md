@@ -40,6 +40,15 @@
 - [x] cocacola 
 - [x] the marker
 - [x] font-downloader
+- [x] mikud
+- [x] qr
+- [x] liad_tools
+- [x] yellowcar
+- [x] king of the hamuzim
+- [x] harta-hash
+### crack apps
+
+### cocacola
 
 ## רשימת פרויקטים שבוצעו
 
