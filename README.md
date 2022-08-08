@@ -39,6 +39,7 @@
 - [x] crack apps
 - [x] cocacola 
 - [x] the marker
+- [x] font-downloader
 
 ## רשימת פרויקטים שבוצעו
 
