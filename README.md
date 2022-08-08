@@ -37,6 +37,8 @@
 - [x]  google addon
 ## big projects
 - [x] crack apps
+- [x] cocacola 
+- [x] the marker
 
 ## רשימת פרויקטים שבוצעו
 
