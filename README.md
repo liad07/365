@@ -35,6 +35,8 @@
 - [x]  console game
 - [x]  game browser
 - [x]  google addon
+## big projects
+- [x] crack apps
 
 ## רשימת פרויקטים שבוצעו
 
@@ -48,7 +50,7 @@
  - [x] [08/01/22 netfilKS](#netfliKS)
  - [x] 09/01/22 blogzala
  - [x] 10/01/22 eranlevi
- - [x] 11/01/22cocacola web
+ - [x] 11/01/22 cocacola web
  - [x] 12/01/22 the marker
  - [x] 13/01/22 score-hub satira/פornhub
  - [x] 14/01/22 iptv bot web
