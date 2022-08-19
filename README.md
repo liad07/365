@@ -268,9 +268,9 @@
 -  [x] 02/08/22 wether-api
 -  [x] 03/08/22 nike-masterpage
 -  [x] 04/08/22 footballinks
--  [x] 05/08/22 
--  [x] 06/08/22 
--  [x] 07/08/22 
+-  [x] 05/08/22 liad-tools-web
+-  [x] 06/08/22 compiler
+-  [x] 07/08/22 nowebhere
 -  [x] 08/08/22 
 -  [x] 09/08/22 
 -  [x] 10/08/22 
@@ -278,6 +278,11 @@
 -  [x] 12/08/22 
 -  [x] 13/08/22 
 -  [x] 14/08/22 
+-  [x] 15/08/22 
+-  [x] 16/08/22 
+-  [x] 17/08/22 
+-  [x] 18/08/22 
+-  [x] 19/08/22 
 
 # the-best 
 ### Two years ago I started a business with my brother and my uncles I wanted to start from this for nostalgia
