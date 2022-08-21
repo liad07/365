@@ -271,8 +271,8 @@
 -  [x] 05/08/22 liad-tools-web
 -  [x] 06/08/22 compiler
 -  [x] 07/08/22 nowebhere
--  [x] 08/08/22 
--  [x] 09/08/22 
+-  [x] 08/08/22 flask-login
+-  [x] 09/08/22 flask-registration
 -  [x] 10/08/22 
 -  [x] 11/08/22 
 -  [x] 12/08/22 
@@ -283,6 +283,9 @@
 -  [x] 17/08/22 
 -  [x] 18/08/22 
 -  [x] 19/08/22 
+-  [x] 20/08/22 
+-  [x] 21/08/22 
+-  [x] 22/08/22 
 
 # the-best 
 ### Two years ago I started a business with my brother and my uncles I wanted to start from this for nostalgia
